@@ -7,3 +7,6 @@
     margin:0 auto;
     color:burlywood important;
 }
+.height-80{
+    min-height:80vh;
+}
